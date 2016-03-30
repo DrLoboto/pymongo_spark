@@ -40,7 +40,7 @@ except IOError:
 
 setup(
     name='pymongo-spark',
-    version='0.1.dev0',
+    version='1.5.2',
     author='MongoDB, Inc.',
     author_email='mongodb-user@googlegroups.com',
     description='Utilities for using Spark with PyMongo',
